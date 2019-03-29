@@ -78,7 +78,18 @@ p {
     height: 90px;
 
 }
-
+.header{
+    display: flex;
+    justify-content: space-between;
+}
+.header-content{
+    padding: 38px;
+}
+.header-content nav a{
+    color: grey;
+    text-decoration: none;
+   
+}
 /* ********************************************************************************************** NICK PAGE STYLES HERE  */
 
 .jumbotron {
